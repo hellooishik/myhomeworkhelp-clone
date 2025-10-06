@@ -770,7 +770,7 @@ function App() {
       {currentPage === 'reviews' && <ReviewsPage />}
       {currentPage === 'blog' && <BlogPage />}
       {currentPage === 'faq' && <FAQPage />}
-      
+      {/* added fotter */}
       <Footer />
     </div>
   );
